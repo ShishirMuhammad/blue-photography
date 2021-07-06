@@ -1,0 +1,72 @@
+body{
+    color:black;
+    background-color: powderblue;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 100%;
+}
+.blue{
+    font-family: 'Festive', cursive;
+    color: deepskyblue;
+    font-size: 80px;
+    font-weight: 1000;
+}
+.blue-small{
+    font-family: 'Festive', cursive;
+    color: deepskyblue;
+    font-size: 40px;
+}
+h1{
+    font-size: 70px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    
+}
+    
+.button{
+    background-image: linear-gradient(deepskyblue, black);
+    color: orange;
+    text-decoration: none;
+    font-weight: 900;
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: 10%;
+}
+p{
+    text-align: justify;
+    padding-right: 5%;
+    padding-bottom: 3%;
+}
+.tushar{
+    border-radius: 15px;
+    margin-top: 20%;
+ 
+}
+.down{
+    padding-top: 10%;
+}
+#exp{
+    text-align: center;
+    color:black;
+}
+.experience-item{
+    box-shadow: 20px 30px 80px black;
+    padding: 2%;
+    border-left: 10px solid blue;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+footer{
+    text-align: center;
+}
+
+
